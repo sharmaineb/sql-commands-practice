@@ -8,4 +8,4 @@ sqlite3 < songs_albums.sql
 
 Alternately, you can find the code in [this SQL fiddle](http://sqlfiddle.com/#!7/a34037/2) which may be easier to write and debug.
 
-# sql-commands-practice
+
